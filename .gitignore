@@ -1,4 +1,7 @@
 frontend/node_modules
 frontend/.vite
+<<<<<<< HEAD
 
+=======
+>>>>>>> eb04428e4f38ed89028f7dbc05d97f96763d70fe
 backend/node_modules
